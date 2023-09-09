@@ -1,0 +1,33 @@
+body
+{
+    background-size:cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+width: 100%;
+margin: 0px;
+border-radius:20px;
+text-decoration:underline overline;
+font-variant: small-caps;
+box-shadow: 10px 10px 10px grey;
+}
+
+#status
+{
+font-size: 25px;
+margin-top: 130px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
+
+#ins
+{
+    color: orange;
+}
